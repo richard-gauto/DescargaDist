@@ -1,0 +1,2 @@
+# DescargaDist
+ descargar actualizaciones
